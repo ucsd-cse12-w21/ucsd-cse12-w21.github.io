@@ -1,0 +1,9 @@
+safe: true
+title: "Joe Gibbs Politz"
+source: .
+destination: _site
+lsi: false
+url: "https://ucsd-cse12-w17.github.io/"
+:pygments: true
+
+theme: jekyll-theme-minimal
