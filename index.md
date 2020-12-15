@@ -1,12 +1,13 @@
 ---
 layout: page
-title: CSE 12 Fall 2020, A &amp; B Sections
+title: CSE 12 Winter 2021, B, C &amp; D Sections
 doodle: "./doodle.png"
 ---
 
 # Basic Data Structures and Object-Oriented Design
 
 <a target="_blank" href="https://gregmiranda.com">Greg Miranda</a> (Instructor)
+<a target="_blank" href="https://sites.google.com/a/eng.ucsd.edu/paul-yj-cao/">Paul Cao</a> (Instructor)
 
 This course focuses on two main topics: The basics of organizing data for
 efficient computation, and the design of programs that use collections,
@@ -40,14 +41,17 @@ You can visit the lectures via Zoom links provided in Canvas.
 <table class="table table-striped">
 <thead>
   <tr>
-    <th>Section</th><th>Time</th><th>Location</th>
+    <th>Section</th><th>Instructor</th><th>Time</th><th>Location</th>
   </tr>
 </thead>
 <tr>
-  <td>A00 </td><td>MWF 9am - 9:50am </td><td>Zoom</td>
+  <td>B00 </td><td>Paul Cao</td><td>MWF 8am - 8:50am </td><td>Zoom</td>
 </tr>
 <tr>
-  <td>B00 </td><td>MWF 10am - 10:50am </td><td>Zoom</td>
+  <td>C00 </td><td>Greg Miranda</td><td>MWF 11am - 11:50am </td><td>Zoom</td>
+</tr>
+<tr>
+  <td>D00 </td><td>Greg Miranda</td><td>MWF 12pm - 12:50pm </td><td>Zoom</td>
 </tr>
 </table>
 
@@ -66,10 +70,16 @@ Zoom links for the discussion sections will be posted in Canvas.
   </tr>
 </thead>
 <tr>
-  <td>A00 </td><td>Tu 9am - 9:50am </td><td>Zoom</td>
+  <td>B01 </td><td>Tu 9am - 9:50am </td><td>Zoom</td>
 </tr>
 <tr>
-  <td>B00 </td><td>Tu 10am - 10:50am </td><td>Zoom</td>
+  <td>B02 </td><td>Tu 10am - 10:50am </td><td>Zoom</td>
+</tr>
+<tr>
+  <td>C01 </td><td>Tu 11am - 11:50am </td><td>Zoom</td>
+</tr>
+<tr>
+  <td>D01 </td><td>Tu 12pm - 12:50pm </td><td>Zoom</td>
 </tr>
 </table>
 
@@ -80,13 +90,11 @@ The schedule below outlines topics, due dates, and links to assignments. If you 
 You are responsible for checking this schedule and
 completing work by the deadlines given, which are always at 11:59pm local San Diego time on the listed date.
 
-<iframe width="100%" height="800px" style="border: none; border-top: 1px solid grey; border-spacing: 2px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT_Ag3MqtTtu5fVOCvWaA8c1EEas5WcrTUPoNAcEo_C2tTPNyLzBU3zBtA6-ExuaLlnFDWAcm7nQJZV/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="100%" height="800px" style="border: none; border-top: 1px solid grey; border-spacing: 2px"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRpDLGr2ol9Im-2QRexErai5l4FMzqJHZ7aaP6DHkVxbsIku3Qqhaklv5EUxOwC-DdRPXg48krDEgGb/pubhtml?gid=594704517&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## <a id="staff">Staff</a>
 
 We have a large instructional staff to help with your learning, and a few kinds of help sessions you can attend.
-
-<iframe width="100%" height="800px" style="border: none; border-top: 1px solid grey; border-spacing: 2px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRelEhSTgev4Lz72isky67hQ9a22OHTug4UJq9wucsAFsB_LoTIFrxkkvP8hVT9ufY4QVtpEuy0ii9u/pubhtml?gid=0&single=true&widget=true&headers=false"></iframe>
 
 The first is **office hours**, held by the TA and instructor. Office hours are a great place for any kind of question about the course, from help with your assignment to clarifications about material in lecture to questions beyond what we cover in the course. 
 
@@ -105,7 +113,7 @@ The student procedures for open lab hours can be accessed <a href="https://docs.
 
 Below is the calendar for office hours and open lab hours.
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=Y19lcG5xb3NsbjlldmNuMjZkOG03aWJqb2lkOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23AD1457&amp;color=%230B8043&amp;mode=WEEK&amp;showTz=1&amp;showCalendars=0&amp;showPrint=0&amp;showNav=1&amp;showTabs=1" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=Y18wcmxsaW8yOTgzcnZyazIzbDZvNDJrOTlpc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23EF6C00&amp;color=%230B8043&amp;mode=WEEK&amp;showTz=1&amp;showCalendars=0&amp;showPrint=0&amp;showNav=1&amp;showTabs=1" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 The third is **through Piazza**. Online discussion and Q&A for the class will be available on Piazza. Important announcements from the course team will be pinned at the top of your feed. When you set up your account, you can select the frequency for email notifications of messages and discussions on Piazza.
 
@@ -136,16 +144,13 @@ indeed lead you in helpful directions.
 
 There is no required textbook for the course. 
 
-There is a ZyBook available that has been used in the past. You can purchase a
-subscription and use it at your convenience; it serves as a useful reference
-and is organized in the order material is presented in this course, and there
-will be links to relevant ZyBooks sections in with the course schedule. There
-is also a significant amount of reference material at the end of the book for
-review of Java concepts. To get access to the book:
+There is a ZyBook available that has been used in the past. You can purchase a subscription and use it at your convenience; it serves as a useful reference and is organized in the order material is presented in this course, and there will be links to relevant ZyBooks sections in with the course schedule. There is also a significant amount of reference material at the end of the book for review of Java concepts. To get access to the book:
 
 1. Sign in or create an account at <a href="http://learn.zybooks.com">learn.zybooks.com</a>
-2. Enter zyBook code: UCSDCSE12MirandaFall2020
+2. Enter zyBook code: UCSDCSE12Winter2021
 3. Subscribe
+
+If you cannot afford the book or have questions about using your financial aid, please see this page: https://zybooks.zendesk.com/hc/en-us/articles/360007439574-Can-I-pay-using-my-financial-aid-
 
 We may use other on-line resources during the quarter that may be required
 reading or activities. These will all be free and linked from the schedule.
@@ -422,13 +427,13 @@ Reading quizzes are **open to collaboration**, feel free to discuss them with yo
 
 There will be two midterm exams during the quarter, held remotely during
 
-* Week 4 - **Friday 10/30/2020**
-* Week 8 - **Wednesday 11/25/2020**
+* Week 4 - **Friday 1/29/2021**
+* Week 8 - **Friday 2/26/2020**
 
 The final exam
 
-* will be released - **Wednesday, December 16 at 8am**
-* and due by - **Friday, December 18 at 11:59pm**
+* will be released - **Saturday, March 13 at 8am**
+* and due by - **Monday, March 15 at 11:59pm**
 
 Exams will be held asynchronously, meaning you can take them any time within the start and end time, usually a 24 hours period. They must be completed in one sitting. All work on exams is to be done on your own and is open book and open notes. Any form of collaboration on the exams will lead to AI violations. You may access your compiler and the internet for the exams, however, no sharing answers on any site, including Piazza. There will be no make up exams conducted.
 
