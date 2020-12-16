@@ -150,7 +150,7 @@ There is a ZyBook available that has been used in the past. You can purchase a s
 2. Enter zyBook code: UCSDCSE12Winter2021
 3. Subscribe
 
-If you cannot afford the book or have questions about using your financial aid, please see this page: https://zybooks.zendesk.com/hc/en-us/articles/360007439574-Can-I-pay-using-my-financial-aid-
+If you cannot afford the book or have questions about using your financial aid, please see this page: <a  target="_blank" href="https://zybooks.zendesk.com/hc/en-us/articles/360007439574-Can-I-pay-using-my-financial-aid-">https://zybooks.zendesk.com/hc/en-us/articles/360007439574-Can-I-pay-using-my-financial-aid-</a>
 
 We may use other on-line resources during the quarter that may be required
 reading or activities. These will all be free and linked from the schedule.
