@@ -428,7 +428,7 @@ Reading quizzes are **open to collaboration**, feel free to discuss them with yo
 There will be two midterm exams during the quarter, held remotely during
 
 * Week 4 - **Friday 1/29/2021**
-* Week 8 - **Friday 2/26/2020**
+* Week 8 - **Friday 2/26/2021**
 
 The final exam
 
@@ -467,7 +467,7 @@ policies](https://senate.ucsd.edu/operating-procedures/educational-policies/cour
 
 <a id="p:community"></a>
 ### The CSE 12 Community
-CSE 12 is a large course: there are 17 people on the instructional team and over 380 students.  We are all here because we are excited about Computer Science and want to ensure a productive, interesting, and useful quarter.
+CSE 12 is a large course: there are over 40 people on the instructional team and over 550 students.  We are all here because we are excited about Computer Science and want to ensure a productive, interesting, and useful quarter.
 
 At UC San Diego, we agree to hold ourselves to the <a href="https://ucsd.edu/about/principles.html" target="_blank">Principles of Community</a> of respect, inclusion, and integrity.  This translates to all our interactions in this course, and beyond.
 
