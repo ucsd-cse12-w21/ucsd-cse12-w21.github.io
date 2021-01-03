@@ -155,11 +155,11 @@ If you cannot afford the book or have questions about using your financial aid, 
 We may use other on-line resources during the quarter that may be required
 reading or activities. These will all be free and linked from the schedule.
 
-<a href="https://docs.oracle.com/javase/11/" target="_blank">The
+<a href="https://docs.oracle.com/javase/15/" target="_blank">The
 documentation for the Java language</a>, while not required reading, will be
 linked to from some assignments and is always a useful reference while
-programming. We will be using Java version **11** for the programming
-assignments in this course, which is available at <a href="https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html">Oracle's web site</a>.
+programming. We will be using Java version **15** for the programming
+assignments in this course, which is available at <a href="https://www.oracle.com/java/technologies/javase-jdk15-downloads.html">Oracle's web site</a>.
 
 You'll be submitting your classwork and seeing grading feedback through a
 tool called <a href="http://gradescope.com/" target="_blank">Gradescope</a>.
