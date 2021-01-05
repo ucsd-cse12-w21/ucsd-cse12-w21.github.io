@@ -419,7 +419,7 @@ Gradescope's interface.
 
 Each lecture will come with an associated quiz. Completing the quiz before the next lecture section with at least half of the answers correct gains engagement credit. You can also get engagement credit by submitting various surveys and other small engagement tasks we may ask of you throughout the quarter.
 
-You need to get credit for 80% (ex: 20 out of 25 total) quizzes or tasks for full engagement credit.
+You need to get credit for 80% (ex: 28 out of 35 total) quizzes, surveys, or tasks for full engagement credit.
 
 Reading quizzes are **open to collaboration**, feel free to discuss them with your classmates!
 
