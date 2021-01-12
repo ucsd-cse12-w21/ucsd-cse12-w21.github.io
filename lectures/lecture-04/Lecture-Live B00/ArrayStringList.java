@@ -22,10 +22,28 @@ public class ArrayStringList implements StringList {
   }
   
   public void insert(int index, String s) {
+	  expandCapacity();
+	  for (int i = size - 1; i >= index; i--) {
+		  //i --> (i+1)
+		  elements[i+1] = elements[i];
+	  }
+	  //put s into location index
+	  elements[index] = s;
+	  //don't forget to increase size
+	  size++;
   
   }  
   
   public void remove(int index) {
+	  //shift elements
+	  for (int i = index; i <= size - 2; i++ ) {
+		  //from i + 1 to i
+		  elements[i] = elements[i+1];
+	  }
+	  elements[size-1] = null;
+	  //don't forget to decrease size
+	  size--;
+	  
 
   }
   

@@ -25,6 +25,13 @@ public class TestStringList {
 
   @Test
   public void testInsert() {
+	  StringList slist = new ArrayStringList();
+	  slist.insert(0,  "cse11");
+	  assertEquals("cse11", slist.get(0));
+	  slist.insert(1,  "CSE12");
+	  assertEquals("CSE12", slist.get(1));
+	  slist.insert(2, "CSE30");
+	  assertEquals("CSE30", slist.get(2));
 
   }
   
