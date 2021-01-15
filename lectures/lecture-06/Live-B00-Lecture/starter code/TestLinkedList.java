@@ -1,11 +1,11 @@
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
-public class TestStringList {
+public class TestLinkedList {
 
   @Test
   public void testAdd() {
-    StringList slist = new LinkedStringList();
+    LList<String> slist = new LinkedList<>();
     slist.prepend("banana");
     slist.prepend("apple");
 
@@ -15,7 +15,7 @@ public class TestStringList {
 
   @Test
   public void testAddThenSize() {
-    StringList slist = new LinkedStringList();
+    LList<String> slist = new LinkedList<>();
     slist.prepend("banana");
     slist.prepend("apple");
 
@@ -25,7 +25,7 @@ public class TestStringList {
 
   @Test
   public void testAddMany() {
-    StringList slist = new LinkedStringList();
+    LList<String> slist = new LinkedList<>();
     slist.add("a");
     slist.add("b");
     slist.add("c");
@@ -38,6 +38,12 @@ public class TestStringList {
     assertEquals("b", slist.get(1));
     assertEquals("a", slist.get(0));
 
+  }
+  @Test (expected = IndexOutOfBoundsException.class)
+  public void testIndex() {
+	  LList<Integer> ref = new LinkedList<>();
+	  ref.add(12);
+	  ref.get(-2);
   }
 
 }
