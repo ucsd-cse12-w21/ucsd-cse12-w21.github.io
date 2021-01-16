@@ -1,13 +1,13 @@
-public interface StringList {
+public interface LList <T> {
 
   /* Add an element at the beginning of the list */
-  void prepend(String s);
+  void prepend(T s);
 
   /* Add an element at the end of the list */
-  void add(String s);
+  void add(T s);
 
   /* Get the element at the given index */
-  String get(int index);
+  T get(int index);
 
   /* Get the number of elements in the list */
   int size();

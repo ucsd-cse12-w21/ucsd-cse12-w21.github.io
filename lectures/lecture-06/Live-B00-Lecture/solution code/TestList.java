@@ -20,7 +20,7 @@ public class TestList {
 	try
 	{
 	  slist.get(-1);
-	  fail();
+	  //fail();
 	}
 	catch (IndexOutOfBoundsException e) {
 		//this is what I expect
